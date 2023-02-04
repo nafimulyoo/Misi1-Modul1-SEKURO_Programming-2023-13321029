@@ -26,3 +26,6 @@ git config --global user.email "(email pengguna)" # mengatur email pengguna
 git log # melihat riwayat commit
 git checkout (nama commit) # kembali ke commit sebelumnya
 ```
+### Percobaan
+![git-commit](https://user-images.githubusercontent.com/108047880/216768012-e77c40e6-3b07-429e-bc22-bbc0f5bf5743.jpeg)
+![git-log](https://user-images.githubusercontent.com/108047880/216768016-76ff52eb-8609-432f-808b-60950ae2d32d.jpeg)
