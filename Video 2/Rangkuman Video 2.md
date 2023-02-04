@@ -31,3 +31,6 @@ Untuk mengedit file, kita dapat mengikuti langkah-langkah berikut:
 3. Klik tombol edit
 4. Edit file
 5. Klik tombol commit changes
+
+### Percobaan
+Rasanya saya tidak perlu mengupload hasil percobaan karena saya sudah berhasil mengupload repository ini ke Github
