@@ -32,4 +32,7 @@ Untuk mengatasi Git Merge Conflict, kita dapat mengikuti langkah-langkah berikut
 5. Lakukan commit
 
 ### Percobaan
+![git-merge](https://user-images.githubusercontent.com/108047880/216768051-27575cab-e079-4061-8e33-01fadb84ac36.jpeg)
+![git-merge-conflict](https://user-images.githubusercontent.com/108047880/216768059-b1a69578-77c5-4d92-a29a-e7d8b20f86b3.jpeg)
+
 
