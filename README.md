@@ -1,5 +1,5 @@
 # Misi1-Modul1-SEKURO_Programming-2023-13321029
-Repository ini dibuat untuk memenuhi tugas Modul 1 SEKURO Divisi Programming 2023 dengan tema "Version Control System" oleh Nafi Mulyo Kusumo (13321029)
+Repository ini dibuat untuk memenuhi tugas Modul 1 SEKURO Divisi Programming 2023 dengan tema "Version Control System" oleh Nafi Mulyo Kusumo (13321029).
 
 Setiap rangkuman dapat dilihat pada folder terkait. Bukti percobaan dapat dilihat pada folder "Percobaan".
 
