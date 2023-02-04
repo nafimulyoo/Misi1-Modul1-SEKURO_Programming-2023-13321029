@@ -18,6 +18,7 @@ Untuk menggabungkan branch, kita dapat mengikuti langkah-langkah berikut:
 7. Klik tombol confirm merge
 
 ### Percobaan
+![new-branch](https://user-images.githubusercontent.com/108047880/216767929-ccfb4941-690b-4d18-929d-9474787f8a74.jpeg)
 ![merge-1](https://user-images.githubusercontent.com/108047880/216767890-242d1159-f59c-4dea-b6e6-99154c28a30d.jpeg)
 ![merge-2](https://user-images.githubusercontent.com/108047880/216767893-ec9f59b8-d808-4d32-be4a-bbad87c474e5.jpeg)
 ![merge-3](https://user-images.githubusercontent.com/108047880/216767899-259368d9-edd1-46c9-9e56-bad1fa841e57.jpeg)
