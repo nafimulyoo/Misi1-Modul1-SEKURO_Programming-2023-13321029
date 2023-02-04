@@ -1,1 +1,0 @@
-# Rangkuman Video 1:
