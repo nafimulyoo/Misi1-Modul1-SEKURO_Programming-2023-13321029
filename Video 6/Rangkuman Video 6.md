@@ -18,3 +18,7 @@ Three-way merge:
 ```bash
 git merge --no-ff (nama branch) # menggabungkan branch yang dituju ke branch yang sedang aktif
 ```
+
+### Percobaan
+Berikut beberapa percobaan yang saya lakukan:
+```bash
